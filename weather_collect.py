@@ -23,7 +23,7 @@ forecast = {}
 currently = ""
 temp = ""
 now = datetime.datetime.now()
-file = open("/home/jaskew/weather_collect.txt" , "a+")
+file = open("weather_collect.txt" , "a+")
 
 
 destinations = [

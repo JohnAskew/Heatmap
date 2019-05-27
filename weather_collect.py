@@ -26,7 +26,7 @@ now = datetime.datetime.now()
 file = open("/home/jaskew/weather_collect.txt" , "a+")
 
 
-destinations = ['2702 Huntingdon Chase Atlanta Georgia',
+destinations = [
 'Atlanta Georgia',
 'Stone Mountain Park',
 'Coca-Cola Olympic Park',

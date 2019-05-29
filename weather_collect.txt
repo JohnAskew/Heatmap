@@ -1,0 +1,1605 @@
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 05:27","temp":"67.8","hum":"0.87","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 05:27","temp":"70.7","hum":"0.82","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 05:27","temp":"70.2","hum":"0.8","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 05:27","temp":"72.4","hum":"0.91","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 05:27","temp":"67.2","hum":"0.9","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 05:29","temp":"67.8,"hum":"0.87,"forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 05:29","temp":"70.6,"hum":"0.82,"forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 05:29","temp":"70.2,"hum":"0.8,"forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 05:29","temp":"72.4,"hum":"0.91,"forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 05:29","temp":"67.2,"hum":"0.9,"forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 05:30","lat":"33.9605","lon":"-84.3562","temp":"67.8","forecast":""}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 05:30","lat":"33.7483","lon":"-84.3911","temp":"70.6","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 05:30","lat":"33.82","lon":"-84.1329","temp":"70.2","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 05:30","lat":"30.3802","lon":"-97.73","temp":"72.4","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 05:30","lat":"33.9532","lon":"-84.5459","temp":"67.2","forecast":"Mostly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 05:30","temp":"67.8","hum":"0.87","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 05:30","temp":"70.6","hum":"0.82","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 05:30","temp":"70.2","hum":"0.8","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 05:30","temp":"72.4","hum":"0.91","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 05:30","temp":"67.2","hum":"0.9","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 05:33","temp":"67.8","hum":"0.87","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 05:33","temp":"70.6","hum":"0.82","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 05:33","temp":"70.2","hum":"0.8","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 05:33","temp":"72.3","hum":"0.91","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 05:33","temp":"67.2","hum":"0.9","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 05:40","temp":"67.8","hum":"0.87","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 05:40","temp":"70.6","hum":"0.82","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 05:40","temp":"70.2","hum":"0.8","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 05:40","temp":"72.2","hum":"0.91","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 05:40","temp":"67.1","hum":"0.9","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 05:50","temp":"67.2","hum":"0.88","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 05:50","temp":"70.1","hum":"0.83","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 05:50","temp":"69.4","hum":"0.82","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 05:50","temp":"73.2","hum":"0.89","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 05:50","temp":"66.8","hum":"0.91","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 06:00","temp":"67.2","hum":"0.89","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 06:00","temp":"70.0","hum":"0.83","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 06:00","temp":"69.4","hum":"0.82","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 06:00","temp":"73.0","hum":"0.89","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 06:00","temp":"66.7","hum":"0.91","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 06:10","temp":"67.3","hum":"0.89","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 06:10","temp":"70.1","hum":"0.83","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 06:10","temp":"69.5","hum":"0.82","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 06:10","temp":"72.9","hum":"0.89","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 06:10","temp":"66.8","hum":"0.91","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 06:20","temp":"67.4","hum":"0.88","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 06:20","temp":"70.2","hum":"0.82","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 06:20","temp":"69.7","hum":"0.82","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 06:20","temp":"72.9","hum":"0.9","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 06:20","temp":"66.9","hum":"0.91","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 06:30","temp":"67.5","hum":"0.88","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 06:30","temp":"70.3","hum":"0.82","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 06:30","temp":"69.8","hum":"0.82","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 06:30","temp":"72.8","hum":"0.9","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 06:30","temp":"66.9","hum":"0.91","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 06:40","temp":"67.5","hum":"0.88","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 06:40","temp":"70.4","hum":"0.82","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 06:40","temp":"69.9","hum":"0.82","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 06:40","temp":"73.4","hum":"0.88","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 06:40","temp":"67","hum":"0.91","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 06:50","temp":"67.8","hum":"0.87","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 06:50","temp":"70.6","hum":"0.81","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 06:50","temp":"71.0","hum":"0.78","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 06:50","temp":"73.4","hum":"0.88","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 06:50","temp":"66.7","hum":"0.91","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 07:00","temp":"67.8","hum":"0.87","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 07:00","temp":"70.7","hum":"0.81","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 07:00","temp":"71.1","hum":"0.78","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 07:00","temp":"73.3","hum":"0.88","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 07:00","temp":"66.8","hum":"0.91","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 07:10","temp":"68.3","hum":"0.86","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 07:10","temp":"71.1","hum":"0.8","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 07:10","temp":"71.5","hum":"0.78","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 07:10","temp":"73.3","hum":"0.88","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 07:10","temp":"67.3","hum":"0.9","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 07:20","temp":"68.8","hum":"0.84","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 07:20","temp":"71.5","hum":"0.79","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 07:20","temp":"71.9","hum":"0.77","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 07:20","temp":"73.3","hum":"0.88","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 07:20","temp":"67.8","hum":"0.89","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 07:30","temp":"69.3","hum":"0.83","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 07:30","temp":"71.9","hum":"0.78","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 07:30","temp":"72.4","hum":"0.76","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 07:30","temp":"73.3","hum":"0.88","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 07:30","temp":"68.3","hum":"0.87","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 07:40","temp":"69.8","hum":"0.82","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 07:40","temp":"72.3","hum":"0.77","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 07:40","temp":"72.8","hum":"0.75","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 07:40","temp":"73.6","hum":"0.87","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 07:40","temp":"68.7","hum":"0.86","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 07:50","temp":"69.6","hum":"0.82","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 07:50","temp":"72.3","hum":"0.76","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 07:50","temp":"72.6","hum":"0.75","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 07:50","temp":"73.7","hum":"0.87","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 07:50","temp":"68.5","hum":"0.86","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 07:51","temp":"69.7","hum":"0.81","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 07:51","temp":"72.3","hum":"0.76","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 07:51","temp":"72.6","hum":"0.74","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 07:51","temp":"73.7","hum":"0.87","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 07:51","temp":"68.6","hum":"0.85","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 08:00","temp":"70.6","hum":"0.79","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 08:00","temp":"73.0","hum":"0.74","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 08:00","temp":"73.3","hum":"0.73","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 08:00","temp":"73.8","hum":"0.87","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 08:00","temp":"69.7","hum":"0.82","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 08:10","temp":"70.9","hum":"0.78","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 08:10","temp":"73.5","hum":"0.73","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 08:10","temp":"73.5","hum":"0.72","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 08:10","temp":"73.9","hum":"0.87","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 08:10","temp":"70.3","hum":"0.8","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 08:20","temp":"71.7","hum":"0.76","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 08:20","temp":"74.3","hum":"0.71","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 08:20","temp":"74.3","hum":"0.7","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 08:20","temp":"73.9","hum":"0.86","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 08:20","temp":"71.2","hum":"0.78","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 08:30","temp":"72.6","hum":"0.73","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 08:30","temp":"75.0","hum":"0.69","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 08:30","temp":"75.1","hum":"0.68","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 08:30","temp":"74.0","hum":"0.86","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 08:30","temp":"72.0","hum":"0.76","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 08:40","temp":"73.5","hum":"0.71","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 08:40","temp":"75.8","hum":"0.67","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 08:40","temp":"75.8","hum":"0.66","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 08:40","temp":"74.1","hum":"0.86","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 08:40","temp":"72.9","hum":"0.73","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 08:50","temp":"76.3","hum":"0.69","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 08:50","temp":"78.4","hum":"0.64","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 08:50","temp":"78.7","hum":"0.64","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 08:50","temp":"74.1","hum":"0.87","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 08:50","temp":"75.3","hum":"0.71","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 09:00","temp":"77.5","hum":"0.65","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 09:00","temp":"79.4","hum":"0.62","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 09:00","temp":"79.6","hum":"0.61","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 09:00","temp":"74.5","hum":"0.86","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 09:00","temp":"76.5","hum":"0.68","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 09:10","temp":"78.3","hum":"0.63","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 09:10","temp":"80.1","hum":"0.6","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 09:10","temp":"80.4","hum":"0.6","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 09:10","temp":"74.8","hum":"0.85","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 09:10","temp":"77.3","hum":"0.66","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 09:20","temp":"79.1","hum":"0.62","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 09:20","temp":"80.9","hum":"0.58","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 09:20","temp":"81.1","hum":"0.58","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 09:20","temp":"75.2","hum":"0.84","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 09:20","temp":"78.2","hum":"0.64","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 09:30","temp":"79.9","hum":"0.6","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 09:30","temp":"81.6","hum":"0.56","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 09:30","temp":"81.8","hum":"0.56","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 09:30","temp":"75.5","hum":"0.83","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 09:30","temp":"79.0","hum":"0.62","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 09:40","temp":"80.7","hum":"0.58","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 09:40","temp":"82.4","hum":"0.54","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 09:40","temp":"82.5","hum":"0.55","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 09:40","temp":"75.9","hum":"0.82","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 09:40","temp":"79.9","hum":"0.6","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 09:50","temp":"81","hum":"0.59","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 09:50","temp":"82.5","hum":"0.56","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 09:50","temp":"83.1","hum":"0.56","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 09:50","temp":"75.2","hum":"0.85","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 09:50","temp":"80.3","hum":"0.61","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 10:00","temp":"81.8","hum":"0.57","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 10:00","temp":"83.2","hum":"0.54","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 10:00","temp":"83.8","hum":"0.54","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 10:00","temp":"75.5","hum":"0.84","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 10:00","temp":"81.1","hum":"0.59","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 10:10","temp":"82.4","hum":"0.56","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 10:10","temp":"83.8","hum":"0.52","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 10:10","temp":"84.4","hum":"0.53","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 10:10","temp":"75.9","hum":"0.83","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 10:10","temp":"81.7","hum":"0.58","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 10:20","temp":"83.0","hum":"0.55","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 10:20","temp":"84.3","hum":"0.51","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 10:20","temp":"85.0","hum":"0.51","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 10:20","temp":"76.3","hum":"0.82","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 10:20","temp":"82.3","hum":"0.56","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 10:30","temp":"83.6","hum":"0.53","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 10:30","temp":"84.9","hum":"0.5","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 10:30","temp":"85.6","hum":"0.5","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 10:30","temp":"76.7","hum":"0.8","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 10:30","temp":"82.9","hum":"0.55","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 10:40","temp":"84.2","hum":"0.52","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 10:40","temp":"85.4","hum":"0.48","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 10:40","temp":"86.1","hum":"0.49","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 10:40","temp":"77.0","hum":"0.79","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 10:40","temp":"83.5","hum":"0.53","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 10:50","temp":"85.7","hum":"0.5","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 10:50","temp":"86.8","hum":"0.47","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 10:50","temp":"87.4","hum":"0.48","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 10:50","temp":"77.3","hum":"0.79","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 10:50","temp":"84.9","hum":"0.52","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 11:00","temp":"86.3","hum":"0.49","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 11:00","temp":"87.4","hum":"0.46","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 11:00","temp":"88.0","hum":"0.47","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 11:00","temp":"77.7","hum":"0.78","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 11:00","temp":"85.5","hum":"0.5","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 11:10","temp":"86.7","hum":"0.48","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 11:10","temp":"87.8","hum":"0.45","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 11:10","temp":"88.4","hum":"0.46","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 11:10","temp":"78.0","hum":"0.77","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 11:10","temp":"85.9","hum":"0.49","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 11:20","temp":"87.1","hum":"0.47","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 11:20","temp":"88.1","hum":"0.44","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 11:20","temp":"88.8","hum":"0.45","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 11:20","temp":"78.4","hum":"0.76","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 11:20","temp":"86.2","hum":"0.48","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 11:30","temp":"87.5","hum":"0.46","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 11:30","temp":"88.4","hum":"0.43","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 11:30","temp":"89.1","hum":"0.44","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 11:30","temp":"78.8","hum":"0.75","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 11:30","temp":"86.6","hum":"0.47","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 11:40","temp":"87.9","hum":"0.45","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 11:40","temp":"88.8","hum":"0.42","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 11:40","temp":"89.5","hum":"0.43","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 11:40","temp":"79.1","hum":"0.73","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 11:40","temp":"87.0","hum":"0.46","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 11:50","temp":"88.8","hum":"0.44","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 11:50","temp":"89.5","hum":"0.41","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 11:50","temp":"90.2","hum":"0.41","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 11:50","temp":"79.5","hum":"0.73","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 11:50","temp":"88","hum":"0.45","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 12:00","temp":"89.2","hum":"0.43","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 12:00","temp":"89.9","hum":"0.4","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 12:00","temp":"90.7","hum":"0.4","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 12:00","temp":"80.0","hum":"0.71","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 12:00","temp":"88.4","hum":"0.44","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 12:10","temp":"89.5","hum":"0.42","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 12:10","temp":"90.2","hum":"0.39","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 12:10","temp":"90.9","hum":"0.4","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 12:10","temp":"80.4","hum":"0.7","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 12:10","temp":"88.6","hum":"0.43","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 12:20","temp":"89.7","hum":"0.41","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 12:20","temp":"90.4","hum":"0.39","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 12:20","temp":"91.1","hum":"0.39","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 12:20","temp":"80.8","hum":"0.69","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 12:20","temp":"88.9","hum":"0.42","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 12:30","temp":"90.0","hum":"0.4","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 12:30","temp":"90.6","hum":"0.38","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 12:30","temp":"91.3","hum":"0.38","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 12:30","temp":"81.2","hum":"0.68","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 12:30","temp":"89.2","hum":"0.41","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 12:40","temp":"90.2","hum":"0.39","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 12:40","temp":"90.9","hum":"0.37","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 12:40","temp":"91.6","hum":"0.38","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 12:40","temp":"81.6","hum":"0.67","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 12:40","temp":"88.3","hum":"0.42","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 12:50","temp":"89.6","hum":"0.39","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 12:50","temp":"90.5","hum":"0.37","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 12:50","temp":"91.3","hum":"0.37","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 12:50","temp":"82.1","hum":"0.64","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 12:50","temp":"88.7","hum":"0.41","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 13:00","temp":"89.9","hum":"0.38","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 13:00","temp":"90.7","hum":"0.37","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 13:00","temp":"91.6","hum":"0.36","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 13:00","temp":"82.6","hum":"0.63","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 13:00","temp":"88.9","hum":"0.4","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 13:10","temp":"90.1","hum":"0.38","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 13:10","temp":"90.9","hum":"0.36","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 13:10","temp":"91.8","hum":"0.36","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 13:10","temp":"82.9","hum":"0.62","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 13:10","temp":"89.2","hum":"0.4","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 13:20","temp":"90.3","hum":"0.37","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 13:20","temp":"91.1","hum":"0.35","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 13:20","temp":"92.0","hum":"0.35","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 13:20","temp":"83.1","hum":"0.62","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 13:20","temp":"89.4","hum":"0.39","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 13:30","temp":"90.5","hum":"0.36","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 13:30","temp":"91.3","hum":"0.35","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 13:30","temp":"92.2","hum":"0.35","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 13:30","temp":"83.4","hum":"0.61","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 13:30","temp":"89.6","hum":"0.38","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 13:40","temp":"90.8","hum":"0.36","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 13:40","temp":"91.5","hum":"0.34","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 13:40","temp":"92.4","hum":"0.34","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 13:40","temp":"83.7","hum":"0.6","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 13:40","temp":"89.8","hum":"0.37","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 13:50","temp":"90.1","hum":"0.38","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 13:50","temp":"91.2","hum":"0.36","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 13:50","temp":"92.2","hum":"0.35","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 13:50","temp":"83.2","hum":"0.63","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 13:50","temp":"89.2","hum":"0.39","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 14:00","temp":"90.5","hum":"0.37","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 14:00","temp":"91.5","hum":"0.36","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 14:00","temp":"92.5","hum":"0.35","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 14:00","temp":"83.1","hum":"0.63","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 14:00","temp":"89.6","hum":"0.38","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 14:10","temp":"90.7","hum":"0.36","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 14:10","temp":"91.7","hum":"0.35","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 14:10","temp":"92.7","hum":"0.34","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 14:10","temp":"83.5","hum":"0.62","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 14:10","temp":"89.8","hum":"0.38","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 14:20","temp":"90.9","hum":"0.36","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 14:20","temp":"91.9","hum":"0.35","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 14:20","temp":"92.9","hum":"0.34","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 14:20","temp":"83.8","hum":"0.61","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 14:20","temp":"90.0","hum":"0.38","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 14:30","temp":"91.1","hum":"0.36","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 14:30","temp":"92.1","hum":"0.35","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 14:30","temp":"93.2","hum":"0.33","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 14:30","temp":"84.2","hum":"0.6","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 14:30","temp":"90.2","hum":"0.37","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 14:40","temp":"91.4","hum":"0.35","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 14:40","temp":"92.4","hum":"0.34","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 14:40","temp":"93.4","hum":"0.33","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 14:40","temp":"84.5","hum":"0.59","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 14:40","temp":"90.6","hum":"0.38","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 14:50","temp":"91.9","hum":"0.35","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 14:50","temp":"92.5","hum":"0.35","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 14:50","temp":"93.7","hum":"0.33","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 14:50","temp":"84.6","hum":"0.57","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 14:50","temp":"90.9","hum":"0.37","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 15:00","temp":"92.1","hum":"0.35","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 15:00","temp":"92.7","hum":"0.34","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 15:00","temp":"93.9","hum":"0.33","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 15:00","temp":"85.0","hum":"0.56","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 15:00","temp":"91.1","hum":"0.37","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 15:10","temp":"92.5","hum":"0.34","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 15:10","temp":"93.1","hum":"0.34","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 15:10","temp":"94.2","hum":"0.33","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 15:10","temp":"85.3","hum":"0.56","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 15:10","temp":"91.5","hum":"0.36","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 15:20","temp":"92.6","hum":"0.34","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 15:20","temp":"93.3","hum":"0.34","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 15:20","temp":"94.4","hum":"0.32","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 15:20","temp":"85.7","hum":"0.55","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 15:20","temp":"91.6","hum":"0.36","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 15:30","temp":"92.8","hum":"0.34","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 15:30","temp":"93.4","hum":"0.33","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 15:30","temp":"94.5","hum":"0.32","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 15:30","temp":"86.1","hum":"0.55","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 15:30","temp":"91.8","hum":"0.36","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 15:40","temp":"92.9","hum":"0.34","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 15:40","temp":"93.6","hum":"0.33","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 15:40","temp":"94.7","hum":"0.32","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 15:40","temp":"86.4","hum":"0.54","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 15:40","temp":"91.5","hum":"0.36","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 15:45","temp":"92.5","hum":"0.34","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 15:45","temp":"93.1","hum":"0.34","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 15:45","temp":"94.1","hum":"0.33","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 15:45","temp":"85.7","hum":"0.55","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 15:45","temp":"91.6","hum":"0.36","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 15:55","temp":"92.6","hum":"0.34","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 15:55","temp":"93.3","hum":"0.34","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 15:55","temp":"94.3","hum":"0.33","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 15:55","temp":"86.0","hum":"0.54","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 15:55","temp":"91.8","hum":"0.36","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 15:56","temp":"92.7","hum":"0.34","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 15:56","temp":"93.3","hum":"0.34","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 15:56","temp":"94.3","hum":"0.33","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 15:56","temp":"86.1","hum":"0.54","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 15:56","temp":"91.8","hum":"0.36","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 15:57","temp":"92.7","hum":"0.34","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 15:57","temp":"93.4","hum":"0.34","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 15:57","temp":"94.3","hum":"0.33","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 15:57","temp":"86.1","hum":"0.54","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 15:57","temp":"91.8","hum":"0.36","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 18:15","temp":"91.2","hum":"0.37","forecast":"Mostly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 18:15","temp":"91.8","hum":"0.37","forecast":"Mostly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 18:15","temp":"93.5","hum":"0.35","forecast":"Mostly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 18:15","temp":"87.8","hum":"0.5","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 18:15","temp":"89.6","hum":"0.4","forecast":"Mostly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 18:30","temp":"90.9","hum":"0.38","forecast":"Mostly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 18:30","temp":"91.5","hum":"0.38","forecast":"Mostly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 18:30","temp":"93.1","hum":"0.36","forecast":"Mostly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 18:30","temp":"88.1","hum":"0.49","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 18:30","temp":"89.3","hum":"0.41","forecast":"Mostly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 18:40","temp":"90.6","hum":"0.39","forecast":"Mostly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 18:40","temp":"91.3","hum":"0.38","forecast":"Overcast"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 18:40","temp":"92.9","hum":"0.36","forecast":"Mostly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 18:40","temp":"88.3","hum":"0.49","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 18:40","temp":"88.1","hum":"0.44","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 18:50","temp":"89.4","hum":"0.41","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 18:50","temp":"90.1","hum":"0.41","forecast":"Mostly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 18:50","temp":"90.8","hum":"0.39","forecast":"Mostly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 18:50","temp":"87.2","hum":"0.51","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 18:50","temp":"88.5","hum":"0.43","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 19:00","temp":"89.2","hum":"0.41","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 19:00","temp":"89.9","hum":"0.41","forecast":"Mostly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 19:00","temp":"90.5","hum":"0.4","forecast":"Mostly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 19:00","temp":"87.3","hum":"0.51","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 19:00","temp":"88.3","hum":"0.43","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 19:10","temp":"88.9","hum":"0.42","forecast":"Mostly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 19:10","temp":"89.6","hum":"0.41","forecast":"Mostly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 19:10","temp":"90.2","hum":"0.4","forecast":"Mostly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 19:10","temp":"87.1","hum":"0.51","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 19:10","temp":"87.9","hum":"0.44","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 19:20","temp":"88.6","hum":"0.42","forecast":"Mostly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 19:20","temp":"89.3","hum":"0.42","forecast":"Mostly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 19:20","temp":"89.9","hum":"0.41","forecast":"Mostly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 19:20","temp":"87","hum":"0.52","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 19:20","temp":"87.6","hum":"0.45","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 19:30","temp":"88.2","hum":"0.43","forecast":"Mostly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 19:30","temp":"89.0","hum":"0.42","forecast":"Mostly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 19:30","temp":"89.6","hum":"0.41","forecast":"Mostly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 19:30","temp":"86.8","hum":"0.52","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 19:30","temp":"87.3","hum":"0.45","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 19:40","temp":"87.9","hum":"0.43","forecast":"Mostly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 19:40","temp":"88.7","hum":"0.43","forecast":"Mostly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 19:40","temp":"89.4","hum":"0.41","forecast":"Mostly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 19:40","temp":"85.6","hum":"0.55","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 19:40","temp":"87.0","hum":"0.46","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 20:00","temp":"86.8","hum":"0.46","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 20:00","temp":"87.5","hum":"0.46","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 20:00","temp":"88.2","hum":"0.44","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 20:00","temp":"84.5","hum":"0.56","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 20:00","temp":"85.9","hum":"0.48","forecast":"Mostly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 20:10","temp":"86.6","hum":"0.46","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 20:10","temp":"87.3","hum":"0.47","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 20:10","temp":"88.1","hum":"0.45","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 20:10","temp":"84.7","hum":"0.56","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 20:10","temp":"85.8","hum":"0.49","forecast":"Mostly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 20:20","temp":"86.1","hum":"0.47","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 20:20","temp":"86.9","hum":"0.48","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 20:20","temp":"87.6","hum":"0.45","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 20:20","temp":"84.4","hum":"0.57","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 20:20","temp":"85.3","hum":"0.5","forecast":"Mostly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 20:30","temp":"85.7","hum":"0.48","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 20:30","temp":"86.5","hum":"0.49","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 20:30","temp":"87.2","hum":"0.46","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 20:30","temp":"84.1","hum":"0.57","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 20:30","temp":"84.9","hum":"0.51","forecast":"Mostly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 20:40","temp":"85.2","hum":"0.49","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 20:40","temp":"86.0","hum":"0.49","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 20:40","temp":"86.8","hum":"0.47","forecast":"Partly Cloudy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 20:40","temp":"83.8","hum":"0.58","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 20:40","temp":"84.4","hum":"0.52","forecast":"Mostly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 20:50","temp":"84.9","hum":"0.5","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 20:50","temp":"85.8","hum":"0.51","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 20:50","temp":"86.4","hum":"0.48","forecast":"Foggy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 20:50","temp":"83.6","hum":"0.6","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 20:50","temp":"84.1","hum":"0.53","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 21:00","temp":"84.5","hum":"0.51","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 21:00","temp":"85.4","hum":"0.52","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 21:00","temp":"85.9","hum":"0.5","forecast":"Foggy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 21:00","temp":"82.8","hum":"0.61","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 21:00","temp":"83.6","hum":"0.53","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 21:10","temp":"84.0","hum":"0.52","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 21:10","temp":"84.9","hum":"0.53","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 21:10","temp":"85.5","hum":"0.5","forecast":"Foggy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 21:10","temp":"82.4","hum":"0.62","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 21:10","temp":"83.1","hum":"0.55","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 21:20","temp":"83.5","hum":"0.53","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 21:20","temp":"84.5","hum":"0.54","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 21:20","temp":"85.1","hum":"0.51","forecast":"Foggy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 21:20","temp":"82.0","hum":"0.63","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 21:20","temp":"82.6","hum":"0.56","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 21:30","temp":"83.1","hum":"0.54","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 21:30","temp":"84.1","hum":"0.55","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 21:30","temp":"84.7","hum":"0.52","forecast":"Foggy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 21:30","temp":"81.6","hum":"0.64","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 21:30","temp":"82.1","hum":"0.57","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 21:40","temp":"83.0","hum":"0.54","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 21:40","temp":"84.2","hum":"0.55","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 21:40","temp":"84.7","hum":"0.52","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 21:40","temp":"81.8","hum":"0.64","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 21:40","temp":"82.1","hum":"0.57","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 21:50","temp":"81.5","hum":"0.58","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 21:50","temp":"82.9","hum":"0.59","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 21:50","temp":"83.3","hum":"0.55","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 21:50","temp":"81.2","hum":"0.67","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 21:50","temp":"80.3","hum":"0.62","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 22:00","temp":"81.1","hum":"0.59","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 22:00","temp":"82.5","hum":"0.6","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 22:00","temp":"82.9","hum":"0.56","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 22:00","temp":"80.8","hum":"0.68","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 22:00","temp":"79.8","hum":"0.63","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 22:10","temp":"80.7","hum":"0.6","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 22:10","temp":"82.1","hum":"0.61","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 22:10","temp":"82.5","hum":"0.57","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 22:10","temp":"80.4","hum":"0.69","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 22:10","temp":"79.4","hum":"0.64","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 22:20","temp":"80.3","hum":"0.6","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 22:20","temp":"81.7","hum":"0.62","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 22:20","temp":"82.2","hum":"0.57","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 22:20","temp":"80.1","hum":"0.7","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 22:20","temp":"79.0","hum":"0.65","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 22:30","temp":"80.0","hum":"0.61","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 22:30","temp":"81.4","hum":"0.63","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 22:30","temp":"81.9","hum":"0.58","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 22:30","temp":"79.7","hum":"0.71","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 22:30","temp":"78.6","hum":"0.66","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 22:40","temp":"79.9","hum":"0.62","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 22:40","temp":"81.5","hum":"0.62","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 22:40","temp":"82.0","hum":"0.58","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 22:40","temp":"79.5","hum":"0.71","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 22:40","temp":"78.6","hum":"0.66","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 22:50","temp":"78.7","hum":"0.67","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 22:50","temp":"80.5","hum":"0.67","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 22:50","temp":"81.3","hum":"0.63","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 22:50","temp":"79.2","hum":"0.73","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 22:50","temp":"77.8","hum":"0.71","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 23:00","temp":"78.3","hum":"0.68","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 23:00","temp":"80.2","hum":"0.68","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 23:00","temp":"80.9","hum":"0.64","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 23:00","temp":"78.8","hum":"0.74","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 23:00","temp":"77.4","hum":"0.72","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 23:10","temp":"78.1","hum":"0.69","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 23:10","temp":"79.8","hum":"0.69","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 23:10","temp":"80.6","hum":"0.64","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 23:10","temp":"78.5","hum":"0.75","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 23:10","temp":"77.1","hum":"0.73","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 23:20","temp":"77.8","hum":"0.69","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 23:20","temp":"79.5","hum":"0.7","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 23:20","temp":"80.3","hum":"0.65","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 23:20","temp":"78.1","hum":"0.76","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 23:20","temp":"76.7","hum":"0.74","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 23:30","temp":"77.6","hum":"0.7","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 23:30","temp":"79.5","hum":"0.7","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 23:30","temp":"80.1","hum":"0.65","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 23:30","temp":"77.8","hum":"0.76","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 23:30","temp":"76.5","hum":"0.74","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 23:40","temp":"77.6","hum":"0.7","forecast":"Partly Cloudy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 23:40","temp":"79.2","hum":"0.7","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 23:40","temp":"80.0","hum":"0.66","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 23:40","temp":"77.5","hum":"0.78","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 23:40","temp":"76.2","hum":"0.75","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-27 23:50","temp":"77.9","hum":"0.7","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-27 23:50","temp":"79.3","hum":"0.7","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-27 23:50","temp":"79.7","hum":"0.67","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-27 23:50","temp":"77.8","hum":"0.78","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-27 23:50","temp":"76.8","hum":"0.74","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 00:00","temp":"77.6","hum":"0.71","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 00:00","temp":"79.0","hum":"0.71","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 00:00","temp":"79.5","hum":"0.67","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 00:00","temp":"77.5","hum":"0.79","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 00:00","temp":"76.5","hum":"0.75","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 00:10","temp":"77.5","hum":"0.71","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 00:10","temp":"78.8","hum":"0.71","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 00:10","temp":"79.3","hum":"0.68","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 00:10","temp":"77.3","hum":"0.79","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 00:10","temp":"76.3","hum":"0.76","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 00:20","temp":"77.3","hum":"0.72","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 00:20","temp":"78.6","hum":"0.72","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 00:20","temp":"79.1","hum":"0.68","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 00:20","temp":"77.1","hum":"0.8","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 00:20","temp":"76.1","hum":"0.76","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 00:30","temp":"77.1","hum":"0.72","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 00:30","temp":"78.3","hum":"0.72","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 00:30","temp":"78.9","hum":"0.69","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 00:30","temp":"76.8","hum":"0.8","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 00:30","temp":"75.9","hum":"0.76","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 00:40","temp":"76.9","hum":"0.73","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 00:40","temp":"78.1","hum":"0.73","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 00:40","temp":"78.8","hum":"0.7","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 00:40","temp":"76.6","hum":"0.81","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 00:40","temp":"75.8","hum":"0.77","forecast":"Partly Cloudy"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 00:50","temp":"76.8","hum":"0.75","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 00:50","temp":"77.8","hum":"0.74","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 00:50","temp":"78.6","hum":"0.7","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 00:50","temp":"76.5","hum":"0.81","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 00:50","temp":"75.5","hum":"0.79","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 01:00","temp":"76.6","hum":"0.75","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 01:00","temp":"77.6","hum":"0.75","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 01:00","temp":"78.4","hum":"0.71","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 01:00","temp":"76.3","hum":"0.82","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 01:00","temp":"75.3","hum":"0.79","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 01:10","temp":"76.4","hum":"0.76","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 01:10","temp":"77.4","hum":"0.75","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 01:10","temp":"78.2","hum":"0.71","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 01:10","temp":"76.1","hum":"0.82","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 01:10","temp":"75.2","hum":"0.8","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 01:20","temp":"76.2","hum":"0.76","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 01:20","temp":"77.2","hum":"0.76","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 01:20","temp":"77.9","hum":"0.72","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 01:20","temp":"75.9","hum":"0.83","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 01:20","temp":"75.0","hum":"0.8","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 01:30","temp":"76.2","hum":"0.76","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 01:30","temp":"77.1","hum":"0.75","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 01:30","temp":"77.7","hum":"0.72","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 01:30","temp":"75.7","hum":"0.82","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 01:30","temp":"74.9","hum":"0.79","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 01:40","temp":"76.1","hum":"0.77","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 01:40","temp":"77.0","hum":"0.76","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 01:40","temp":"77.6","hum":"0.73","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 01:40","temp":"75.6","hum":"0.83","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 01:40","temp":"74.7","hum":"0.8","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 01:50","temp":"75.8","hum":"0.8","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 01:50","temp":"76.6","hum":"0.79","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 01:50","temp":"77.0","hum":"0.76","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 01:50","temp":"75.9","hum":"0.83","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 01:50","temp":"74.5","hum":"0.84","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 02:00","temp":"75.7","hum":"0.8","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 02:00","temp":"76.4","hum":"0.8","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 02:00","temp":"76.8","hum":"0.77","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 02:00","temp":"75.7","hum":"0.83","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 02:00","temp":"74.3","hum":"0.84","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 02:10","temp":"75.4","hum":"0.8","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 02:10","temp":"76.2","hum":"0.79","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 02:10","temp":"76.7","hum":"0.76","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 02:10","temp":"75.5","hum":"0.84","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 02:10","temp":"74.0","hum":"0.83","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 02:20","temp":"75.2","hum":"0.8","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 02:20","temp":"76.0","hum":"0.79","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 02:20","temp":"76.4","hum":"0.77","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 02:20","temp":"75.4","hum":"0.84","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 02:20","temp":"73.8","hum":"0.84","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 02:30","temp":"74.9","hum":"0.81","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 02:30","temp":"75.7","hum":"0.8","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 02:30","temp":"76.1","hum":"0.77","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 02:30","temp":"75.2","hum":"0.85","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 02:30","temp":"73.5","hum":"0.84","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 02:40","temp":"74.5","hum":"0.82","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 02:40","temp":"75.2","hum":"0.81","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 02:40","temp":"75.6","hum":"0.78","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 02:40","temp":"75.5","hum":"0.84","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 02:40","temp":"73.2","hum":"0.85","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 02:50","temp":"74.3","hum":"0.83","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 02:50","temp":"75.0","hum":"0.83","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 02:50","temp":"75.7","hum":"0.79","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 02:50","temp":"75.2","hum":"0.84","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 02:50","temp":"72.8","hum":"0.87","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 03:00","temp":"73.9","hum":"0.84","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 03:00","temp":"74.8","hum":"0.84","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 03:00","temp":"75.3","hum":"0.8","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 03:00","temp":"74.6","hum":"0.86","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 03:00","temp":"72.6","hum":"0.88","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 03:10","temp":"73.6","hum":"0.84","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 03:10","temp":"74.5","hum":"0.84","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 03:10","temp":"75.0","hum":"0.8","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 03:10","temp":"74.4","hum":"0.86","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 03:10","temp":"72.4","hum":"0.88","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 03:20","temp":"73.4","hum":"0.85","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 03:20","temp":"74.3","hum":"0.84","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 03:20","temp":"74.7","hum":"0.81","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 03:20","temp":"74.3","hum":"0.87","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 03:20","temp":"72.2","hum":"0.89","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 03:30","temp":"73.1","hum":"0.85","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 03:30","temp":"74.1","hum":"0.85","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 03:30","temp":"74.4","hum":"0.82","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 03:30","temp":"74.1","hum":"0.87","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 03:30","temp":"71.9","hum":"0.89","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 03:40","temp":"72.8","hum":"0.86","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 03:40","temp":"74.0","hum":"0.85","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 03:40","temp":"74.3","hum":"0.82","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 03:40","temp":"73.8","hum":"0.89","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 03:40","temp":"70.8","hum":"0.92","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 03:50","temp":"71.7","hum":"0.89","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 03:50","temp":"73.2","hum":"0.87","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 03:50","temp":"73.6","hum":"0.84","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 03:50","temp":"73.3","hum":"0.89","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 03:50","temp":"70.5","hum":"0.92","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 04:00","temp":"71.5","hum":"0.89","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 04:00","temp":"73.0","hum":"0.87","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 04:00","temp":"73.4","hum":"0.84","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 04:00","temp":"73.1","hum":"0.89","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 04:00","temp":"70.3","hum":"0.93","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 04:10","temp":"71.3","hum":"0.9","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 04:10","temp":"72.8","hum":"0.88","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 04:10","temp":"73.2","hum":"0.85","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 04:10","temp":"73.0","hum":"0.9","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 04:10","temp":"70.1","hum":"0.93","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 04:20","temp":"71.0","hum":"0.9","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 04:20","temp":"72.6","hum":"0.88","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 04:20","temp":"72.9","hum":"0.85","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 04:20","temp":"73","hum":"0.9","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 04:20","temp":"69.9","hum":"0.94","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 04:30","temp":"70.8","hum":"0.91","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 04:30","temp":"72.4","hum":"0.88","forecast":"Partly Cloudy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 04:30","temp":"72.7","hum":"0.86","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 04:30","temp":"72.9","hum":"0.9","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 04:30","temp":"69.7","hum":"0.94","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 04:40","temp":"70.4","hum":"0.92","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 04:40","temp":"72.1","hum":"0.89","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 04:40","temp":"72.3","hum":"0.87","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 04:40","temp":"72.8","hum":"0.91","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 04:40","temp":"69.4","hum":"0.95","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 04:50","temp":"70.5","hum":"0.92","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 04:50","temp":"72.6","hum":"0.88","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 04:50","temp":"72.5","hum":"0.86","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 04:50","temp":"73.2","hum":"0.9","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 04:50","temp":"69.5","hum":"0.94","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 05:00","temp":"70.3","hum":"0.93","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 05:00","temp":"72.4","hum":"0.88","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 05:00","temp":"72.3","hum":"0.87","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 05:00","temp":"73.1","hum":"0.9","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 05:00","temp":"69.3","hum":"0.95","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 05:10","temp":"70.1","hum":"0.93","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 05:10","temp":"72.2","hum":"0.89","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 05:10","temp":"72.1","hum":"0.87","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 05:10","temp":"73.0","hum":"0.9","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 05:10","temp":"69.1","hum":"0.95","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 05:20","temp":"70.0","hum":"0.93","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 05:20","temp":"72.1","hum":"0.89","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 05:20","temp":"72.0","hum":"0.88","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 05:20","temp":"72.9","hum":"0.91","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 05:20","temp":"69","hum":"0.95","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 05:30","temp":"69.8","hum":"0.94","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 05:30","temp":"71.9","hum":"0.89","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 05:30","temp":"71.9","hum":"0.88","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 05:30","temp":"72.9","hum":"0.91","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 05:30","temp":"68.8","hum":"0.96","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 05:40","temp":"69.4","hum":"0.95","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 05:40","temp":"71.8","hum":"0.9","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 05:40","temp":"71.5","hum":"0.89","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 05:40","temp":"73.0","hum":"0.9","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 05:40","temp":"68.4","hum":"0.97","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 05:50","temp":"70.0","hum":"0.93","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 05:50","temp":"71.8","hum":"0.89","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 05:50","temp":"71.9","hum":"0.88","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 05:50","temp":"73.7","hum":"0.9","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 05:50","temp":"68.8","hum":"0.96","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 06:00","temp":"69.8","hum":"0.94","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 06:00","temp":"71.7","hum":"0.9","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 06:00","temp":"71.8","hum":"0.89","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 06:00","temp":"73.8","hum":"0.9","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 06:00","temp":"68.6","hum":"0.96","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 06:10","temp":"69.7","hum":"0.94","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 06:10","temp":"71.5","hum":"0.9","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 06:10","temp":"71.7","hum":"0.89","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 06:10","temp":"73.8","hum":"0.9","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 06:10","temp":"68.5","hum":"0.97","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 06:20","temp":"69.6","hum":"0.94","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 06:20","temp":"71.4","hum":"0.9","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 06:20","temp":"71.7","hum":"0.89","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 06:20","temp":"73.8","hum":"0.9","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 06:20","temp":"68.4","hum":"0.97","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 06:30","temp":"69.5","hum":"0.95","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 06:30","temp":"71.3","hum":"0.9","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 06:30","temp":"71.7","hum":"0.9","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 06:30","temp":"73.9","hum":"0.9","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 06:30","temp":"68.3","hum":"0.97","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 06:40","temp":"70.1","hum":"0.93","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 06:40","temp":"71.2","hum":"0.91","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 06:40","temp":"71.7","hum":"0.9","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 06:40","temp":"73.3","hum":"0.91","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 06:40","temp":"68.0","hum":"0.99","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 06:50","temp":"71.0","hum":"0.88","forecast":"Foggy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 06:50","temp":"72.4","hum":"0.87","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 06:50","temp":"73.1","hum":"0.84","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 06:50","temp":"74.4","hum":"0.89","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 06:50","temp":"69.2","hum":"0.93","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 07:00","temp":"71.0","hum":"0.89","forecast":"Foggy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 07:00","temp":"72.3","hum":"0.87","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 07:00","temp":"73.1","hum":"0.84","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 07:00","temp":"74.4","hum":"0.89","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 07:00","temp":"69.1","hum":"0.94","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 07:10","temp":"71.4","hum":"0.88","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 07:10","temp":"72.6","hum":"0.86","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 07:10","temp":"73.5","hum":"0.83","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 07:10","temp":"74.5","hum":"0.89","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 07:10","temp":"69.4","hum":"0.93","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 07:20","temp":"71.7","hum":"0.86","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 07:20","temp":"72.9","hum":"0.85","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 07:20","temp":"73.8","hum":"0.82","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 07:20","temp":"74.5","hum":"0.89","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 07:20","temp":"69.8","hum":"0.91","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 07:30","temp":"72.1","hum":"0.85","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 07:30","temp":"73.2","hum":"0.84","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 07:30","temp":"74.2","hum":"0.81","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 07:30","temp":"74.5","hum":"0.89","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 07:30","temp":"70.2","hum":"0.9","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 07:40","temp":"72.5","hum":"0.84","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 07:40","temp":"73.5","hum":"0.83","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 07:40","temp":"74.6","hum":"0.8","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 07:40","temp":"74.5","hum":"0.88","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 07:40","temp":"70.6","hum":"0.89","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 07:50","temp":"72.4","hum":"0.83","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 07:50","temp":"74.3","hum":"0.79","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 07:50","temp":"75.1","hum":"0.78","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 07:50","temp":"75.5","hum":"0.86","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 07:50","temp":"71.1","hum":"0.86","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 08:10","temp":"73.4","hum":"0.8","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 08:10","temp":"74.8","hum":"0.77","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 08:10","temp":"76.7","hum":"0.74","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 08:10","temp":"75.5","hum":"0.86","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 08:10","temp":"71.5","hum":"0.84","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 08:20","temp":"74.1","hum":"0.78","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 08:20","temp":"75.4","hum":"0.75","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 08:20","temp":"77.2","hum":"0.72","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 08:20","temp":"75.5","hum":"0.86","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 08:20","temp":"72.2","hum":"0.82","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 08:30","temp":"74.8","hum":"0.76","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 08:30","temp":"76.0","hum":"0.73","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 08:30","temp":"77.8","hum":"0.71","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 08:30","temp":"75.5","hum":"0.86","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 08:30","temp":"72.9","hum":"0.8","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 08:40","temp":"75.0","hum":"0.75","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 08:40","temp":"76.6","hum":"0.71","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 08:40","temp":"77.3","hum":"0.72","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 08:40","temp":"74.6","hum":"0.9","forecast":"Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 08:40","temp":"73.9","hum":"0.77","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 08:50","temp":"77.6","hum":"0.71","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 08:50","temp":"78.7","hum":"0.69","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 08:50","temp":"79.8","hum":"0.68","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 08:50","temp":"75.0","hum":"0.87","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 08:50","temp":"76.1","hum":"0.74","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 09:00","temp":"78.2","hum":"0.69","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 09:00","temp":"79.2","hum":"0.68","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 09:00","temp":"80.4","hum":"0.66","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 09:00","temp":"75.0","hum":"0.87","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 09:00","temp":"76.7","hum":"0.72","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 09:10","temp":"79.9","hum":"0.65","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 09:10","temp":"80.6","hum":"0.64","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 09:10","temp":"81.9","hum":"0.62","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 09:10","temp":"75.0","hum":"0.87","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 09:10","temp":"78.4","hum":"0.67","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 09:20","temp":"80.6","hum":"0.63","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 09:20","temp":"81.2","hum":"0.62","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 09:20","temp":"82.5","hum":"0.61","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 09:20","temp":"75.2","hum":"0.86","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 09:20","temp":"79.1","hum":"0.65","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 09:30","temp":"81.2","hum":"0.61","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 09:30","temp":"81.9","hum":"0.61","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 09:30","temp":"83.1","hum":"0.59","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 09:30","temp":"75.3","hum":"0.86","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 09:30","temp":"79.8","hum":"0.63","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 09:40","temp":"81.1","hum":"0.61","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 09:40","temp":"82.0","hum":"0.59","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 09:40","temp":"83.1","hum":"0.59","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 09:40","temp":"74.4","hum":"0.89","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 09:40","temp":"79.8","hum":"0.63","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 09:50","temp":"82.7","hum":"0.58","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 09:50","temp":"83.5","hum":"0.57","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 09:50","temp":"84.6","hum":"0.57","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 09:50","temp":"75.9","hum":"0.85","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 09:50","temp":"81.2","hum":"0.61","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 10:00","temp":"83.3","hum":"0.56","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 10:00","temp":"84.1","hum":"0.56","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 10:00","temp":"85.2","hum":"0.55","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 10:00","temp":"75.9","hum":"0.85","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 10:00","temp":"81.8","hum":"0.59","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 10:10","temp":"83.8","hum":"0.55","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 10:10","temp":"84.6","hum":"0.54","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 10:10","temp":"85.7","hum":"0.54","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 10:10","temp":"76.1","hum":"0.84","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 10:10","temp":"82.3","hum":"0.58","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 10:20","temp":"84.3","hum":"0.54","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 10:20","temp":"85.0","hum":"0.53","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 10:20","temp":"86.2","hum":"0.52","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 10:20","temp":"76.4","hum":"0.83","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 10:20","temp":"82.9","hum":"0.56","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 10:30","temp":"84.8","hum":"0.52","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 10:30","temp":"85.5","hum":"0.52","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 10:30","temp":"86.7","hum":"0.51","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 10:30","temp":"76.6","hum":"0.82","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 10:30","temp":"83.4","hum":"0.55","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 10:40","temp":"85.7","hum":"0.5","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 10:40","temp":"86.4","hum":"0.49","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 10:40","temp":"87.6","hum":"0.49","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 10:40","temp":"76.6","hum":"0.83","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 10:40","temp":"84.3","hum":"0.52","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 10:50","temp":"85.4","hum":"0.51","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 10:50","temp":"85.8","hum":"0.51","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 10:50","temp":"87.1","hum":"0.5","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 10:50","temp":"77.5","hum":"0.8","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 10:50","temp":"84.1","hum":"0.54","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 11:00","temp":"85.9","hum":"0.5","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 11:00","temp":"86.3","hum":"0.5","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 11:00","temp":"87.6","hum":"0.49","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 11:00","temp":"77.7","hum":"0.8","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 11:00","temp":"84.7","hum":"0.52","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 11:10","temp":"86.3","hum":"0.48","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 11:10","temp":"86.7","hum":"0.49","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 11:10","temp":"88.0","hum":"0.48","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 11:10","temp":"78.1","hum":"0.78","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 11:10","temp":"85.1","hum":"0.51","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 11:20","temp":"86.7","hum":"0.47","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 11:20","temp":"87.0","hum":"0.47","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 11:20","temp":"88.4","hum":"0.46","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 11:20","temp":"78.5","hum":"0.77","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 11:20","temp":"85.4","hum":"0.5","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 11:30","temp":"86.8","hum":"0.47","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 11:30","temp":"87.2","hum":"0.47","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 11:30","temp":"88.5","hum":"0.46","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 11:30","temp":"79.1","hum":"0.75","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 11:30","temp":"85.6","hum":"0.49","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 11:40","temp":"87.6","hum":"0.44","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 11:40","temp":"87.9","hum":"0.44","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 11:40","temp":"89.3","hum":"0.43","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 11:40","temp":"78.8","hum":"0.77","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 11:40","temp":"86.4","hum":"0.46","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 11:50","temp":"87.3","hum":"0.46","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 11:50","temp":"87.4","hum":"0.44","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 11:50","temp":"88.9","hum":"0.44","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 11:50","temp":"79.6","hum":"0.74","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 11:50","temp":"85.8","hum":"0.48","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 12:00","temp":"87.7","hum":"0.44","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 12:00","temp":"87.8","hum":"0.43","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 12:00","temp":"89.3","hum":"0.43","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 12:00","temp":"80.0","hum":"0.73","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 12:00","temp":"86.2","hum":"0.47","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 12:10","temp":"88.0","hum":"0.43","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 12:10","temp":"88.0","hum":"0.42","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 12:10","temp":"89.6","hum":"0.42","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 12:10","temp":"80.6","hum":"0.71","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 12:10","temp":"86.5","hum":"0.46","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 12:20","temp":"88.2","hum":"0.42","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 12:20","temp":"88.3","hum":"0.41","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 12:20","temp":"89.8","hum":"0.41","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 12:20","temp":"81.2","hum":"0.69","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 12:20","temp":"86.8","hum":"0.45","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 12:30","temp":"88.5","hum":"0.41","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 12:30","temp":"88.5","hum":"0.4","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 12:30","temp":"90.1","hum":"0.4","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 12:30","temp":"81.8","hum":"0.68","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 12:30","temp":"87.1","hum":"0.44","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 12:40","temp":"89.5","hum":"0.38","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 12:40","temp":"89.4","hum":"0.38","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 12:40","temp":"91.0","hum":"0.37","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 12:40","temp":"81.7","hum":"0.69","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 12:40","temp":"88.2","hum":"0.41","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 12:50","temp":"89.4","hum":"0.38","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 12:50","temp":"89.2","hum":"0.37","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 12:50","temp":"90.8","hum":"0.36","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 12:50","temp":"82.2","hum":"0.68","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 12:50","temp":"88.0","hum":"0.41","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 13:00","temp":"89.7","hum":"0.37","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 13:00","temp":"89.5","hum":"0.36","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 13:00","temp":"91.1","hum":"0.35","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 13:00","temp":"82.8","hum":"0.66","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 13:00","temp":"88.3","hum":"0.39","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 13:10","temp":"89.9","hum":"0.36","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 13:10","temp":"89.6","hum":"0.35","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 13:10","temp":"91.3","hum":"0.34","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 13:10","temp":"83.2","hum":"0.65","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 13:10","temp":"88.6","hum":"0.39","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 13:20","temp":"90.2","hum":"0.35","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 13:20","temp":"89.8","hum":"0.35","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 13:20","temp":"91.4","hum":"0.33","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 13:20","temp":"83.6","hum":"0.64","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 13:20","temp":"88.8","hum":"0.38","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 13:30","temp":"90.4","hum":"0.35","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 13:30","temp":"90.0","hum":"0.34","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 13:30","temp":"91.6","hum":"0.33","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 13:30","temp":"84.0","hum":"0.63","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 13:30","temp":"89.1","hum":"0.37","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 13:40","temp":"90.6","hum":"0.34","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 13:40","temp":"90.1","hum":"0.33","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 13:40","temp":"91.8","hum":"0.32","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 13:40","temp":"84.4","hum":"0.62","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 13:40","temp":"89.3","hum":"0.37","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 13:50","temp":"90.9","hum":"0.32","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 13:50","temp":"90.7","hum":"0.31","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 13:50","temp":"92.4","hum":"0.3","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 13:50","temp":"83.9","hum":"0.62","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 13:50","temp":"89.8","hum":"0.34","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 14:00","temp":"91.2","hum":"0.31","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 14:00","temp":"91","hum":"0.31","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 14:00","temp":"92.6","hum":"0.29","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 14:00","temp":"84.4","hum":"0.61","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 14:00","temp":"90.0","hum":"0.33","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 14:10","temp":"91.4","hum":"0.3","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 14:10","temp":"91.0","hum":"0.3","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 14:10","temp":"92.7","hum":"0.29","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 14:10","temp":"84.9","hum":"0.59","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 14:10","temp":"90.3","hum":"0.33","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 14:20","temp":"91.6","hum":"0.3","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 14:20","temp":"91.3","hum":"0.29","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 14:20","temp":"93","hum":"0.28","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 14:20","temp":"85.2","hum":"0.59","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 14:20","temp":"90.5","hum":"0.32","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 14:30","temp":"92.1","hum":"0.29","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 14:30","temp":"91.6","hum":"0.29","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 14:30","temp":"93.3","hum":"0.28","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 14:30","temp":"85.3","hum":"0.58","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 14:30","temp":"90.9","hum":"0.32","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 14:40","temp":"92.3","hum":"0.29","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 14:40","temp":"91.8","hum":"0.28","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 14:40","temp":"93.6","hum":"0.27","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 14:40","temp":"85.7","hum":"0.57","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 14:40","temp":"91.1","hum":"0.31","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 14:50","temp":"92.5","hum":"0.29","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 14:50","temp":"92.2","hum":"0.28","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 14:50","temp":"93.8","hum":"0.27","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 14:50","temp":"84.9","hum":"0.58","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 14:50","temp":"91.5","hum":"0.31","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 15:00","temp":"93.0","hum":"0.29","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 15:00","temp":"92.8","hum":"0.27","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 15:00","temp":"94.4","hum":"0.26","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 15:00","temp":"85.2","hum":"0.58","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 15:00","temp":"91.9","hum":"0.3","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 15:10","temp":"93.2","hum":"0.28","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 15:10","temp":"93.0","hum":"0.27","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 15:10","temp":"94.6","hum":"0.26","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 15:10","temp":"85.5","hum":"0.57","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 15:10","temp":"92.1","hum":"0.3","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 15:20","temp":"93.4","hum":"0.28","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 15:20","temp":"93.2","hum":"0.27","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 15:20","temp":"94.8","hum":"0.26","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 15:20","temp":"85.8","hum":"0.57","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 15:20","temp":"92.2","hum":"0.29","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 15:30","temp":"93.6","hum":"0.28","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 15:30","temp":"93.4","hum":"0.27","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 15:30","temp":"95.0","hum":"0.25","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 15:30","temp":"86.1","hum":"0.56","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 15:30","temp":"92.4","hum":"0.29","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 15:40","temp":"93.8","hum":"0.28","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 15:40","temp":"93.6","hum":"0.27","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 15:40","temp":"95.2","hum":"0.25","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 15:40","temp":"86.4","hum":"0.56","forecast":"Clear"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 15:40","temp":"91.9","hum":"0.28","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 15:50","temp":"92.5","hum":"0.27","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 15:50","temp":"92.9","hum":"0.26","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 15:50","temp":"94.4","hum":"0.25","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 15:50","temp":"84.8","hum":"0.6","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 15:50","temp":"92.2","hum":"0.28","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 16:00","temp":"92.7","hum":"0.27","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 16:00","temp":"93.1","hum":"0.26","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 16:00","temp":"94.6","hum":"0.24","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 16:00","temp":"85.0","hum":"0.6","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 16:00","temp":"92.4","hum":"0.28","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 16:10","temp":"92.7","hum":"0.27","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 16:10","temp":"93.2","hum":"0.25","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 16:10","temp":"94.7","hum":"0.24","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 16:10","temp":"85.3","hum":"0.59","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 16:10","temp":"92.4","hum":"0.28","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 16:20","temp":"92.8","hum":"0.27","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 16:20","temp":"93.3","hum":"0.25","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 16:20","temp":"94.7","hum":"0.24","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 16:20","temp":"85.6","hum":"0.59","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 16:20","temp":"92.4","hum":"0.28","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 16:30","temp":"92.9","hum":"0.26","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 16:30","temp":"93.3","hum":"0.25","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 16:30","temp":"94.7","hum":"0.24","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 16:30","temp":"85.7","hum":"0.59","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 16:30","temp":"92.2","hum":"0.28","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 16:40","temp":"92.8","hum":"0.27","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 16:40","temp":"93.3","hum":"0.25","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 16:40","temp":"94.8","hum":"0.24","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 16:40","temp":"86.0","hum":"0.58","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 16:40","temp":"92.3","hum":"0.28","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 16:50","temp":"93.3","hum":"0.27","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 16:50","temp":"93.7","hum":"0.26","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 16:50","temp":"94.9","hum":"0.24","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 16:50","temp":"84.9","hum":"0.61","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 16:50","temp":"92.4","hum":"0.28","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 17:00","temp":"93.4","hum":"0.27","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 17:00","temp":"93.8","hum":"0.26","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 17:00","temp":"95.0","hum":"0.24","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 17:00","temp":"85.1","hum":"0.61","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 17:00","temp":"92.5","hum":"0.28","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 17:10","temp":"93.3","hum":"0.27","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 17:10","temp":"93.7","hum":"0.26","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 17:10","temp":"94.9","hum":"0.24","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 17:10","temp":"85.3","hum":"0.61","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 17:10","temp":"92.4","hum":"0.28","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 17:20","temp":"92.9","hum":"0.27","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 17:20","temp":"93.1","hum":"0.27","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 17:20","temp":"94.5","hum":"0.25","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 17:20","temp":"85.7","hum":"0.59","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 17:20","temp":"91.8","hum":"0.29","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 17:30","temp":"92.8","hum":"0.27","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 17:30","temp":"93.0","hum":"0.27","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 17:30","temp":"94.4","hum":"0.25","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 17:30","temp":"85.9","hum":"0.59","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 17:30","temp":"91.8","hum":"0.29","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 17:40","temp":"92.7","hum":"0.27","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 17:40","temp":"92.9","hum":"0.27","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 17:40","temp":"94.3","hum":"0.25","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 17:40","temp":"86.1","hum":"0.59","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 17:40","temp":"91.7","hum":"0.29","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 17:50","temp":"93.1","hum":"0.28","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 17:50","temp":"93.5","hum":"0.27","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 17:50","temp":"94.5","hum":"0.25","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 17:50","temp":"84.1","hum":"0.66","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 17:50","temp":"92.3","hum":"0.3","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 18:00","temp":"93.0","hum":"0.28","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 18:00","temp":"93.5","hum":"0.27","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 18:00","temp":"94.4","hum":"0.25","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 18:00","temp":"84.2","hum":"0.66","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 18:00","temp":"92.3","hum":"0.3","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 18:10","temp":"92.8","hum":"0.29","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 18:10","temp":"93.2","hum":"0.28","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 18:10","temp":"94.2","hum":"0.26","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 18:10","temp":"84.1","hum":"0.66","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 18:10","temp":"92.0","hum":"0.31","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 18:20","temp":"92.5","hum":"0.29","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 18:20","temp":"92.9","hum":"0.28","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 18:20","temp":"93.9","hum":"0.26","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 18:20","temp":"84.0","hum":"0.67","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 18:20","temp":"91.7","hum":"0.31","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 18:30","temp":"92.3","hum":"0.29","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 18:30","temp":"92.6","hum":"0.28","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 18:30","temp":"93.7","hum":"0.26","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 18:30","temp":"83.9","hum":"0.68","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 18:30","temp":"91.4","hum":"0.31","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 18:40","temp":"92.0","hum":"0.3","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 18:40","temp":"92.3","hum":"0.29","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 18:40","temp":"93.4","hum":"0.27","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 18:40","temp":"83.8","hum":"0.68","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 18:40","temp":"91.4","hum":"0.32","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 18:50","temp":"91.9","hum":"0.3","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 18:50","temp":"92.0","hum":"0.29","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 18:50","temp":"93.2","hum":"0.27","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 18:50","temp":"83.1","hum":"0.7","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 18:50","temp":"91.0","hum":"0.32","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 19:00","temp":"91.7","hum":"0.3","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 19:00","temp":"91.8","hum":"0.3","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 19:00","temp":"93.0","hum":"0.28","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 19:00","temp":"82.9","hum":"0.71","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 19:00","temp":"90.8","hum":"0.33","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 19:10","temp":"91.3","hum":"0.31","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 19:10","temp":"91.5","hum":"0.3","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 19:10","temp":"92.6","hum":"0.28","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 19:10","temp":"82.9","hum":"0.71","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 19:10","temp":"90.4","hum":"0.33","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 19:20","temp":"90.9","hum":"0.31","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 19:20","temp":"91.1","hum":"0.31","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 19:20","temp":"92.2","hum":"0.29","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 19:20","temp":"82.8","hum":"0.71","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 19:20","temp":"90.1","hum":"0.34","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 19:30","temp":"90.6","hum":"0.32","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 19:30","temp":"90.7","hum":"0.31","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 19:30","temp":"91.8","hum":"0.29","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 19:30","temp":"82.7","hum":"0.72","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 19:30","temp":"89.7","hum":"0.35","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 19:40","temp":"90.2","hum":"0.33","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 19:40","temp":"90.4","hum":"0.32","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 19:40","temp":"91.5","hum":"0.3","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 19:40","temp":"82.3","hum":"0.72","forecast":"Drizzle"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 19:40","temp":"89.3","hum":"0.35","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 19:50","temp":"90.0","hum":"0.33","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 19:50","temp":"89.8","hum":"0.33","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 19:50","temp":"91.1","hum":"0.31","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 19:50","temp":"82.2","hum":"0.72","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 19:50","temp":"88.7","hum":"0.36","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 20:00","temp":"89.3","hum":"0.34","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 20:00","temp":"89.2","hum":"0.34","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 20:00","temp":"90.4","hum":"0.32","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 20:00","temp":"81.0","hum":"0.76","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 20:00","temp":"88.2","hum":"0.36","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 20:10","temp":"88.7","hum":"0.34","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 20:10","temp":"88.7","hum":"0.35","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 20:10","temp":"89.8","hum":"0.33","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 20:10","temp":"80.7","hum":"0.76","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 20:10","temp":"87.6","hum":"0.37","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 20:20","temp":"88.1","hum":"0.35","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 20:20","temp":"88.1","hum":"0.36","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 20:20","temp":"89.2","hum":"0.33","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 20:20","temp":"80.5","hum":"0.77","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 20:20","temp":"87.0","hum":"0.38","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 20:30","temp":"87.5","hum":"0.36","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 20:30","temp":"87.6","hum":"0.37","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 20:30","temp":"88.6","hum":"0.34","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 20:30","temp":"80.2","hum":"0.78","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 20:30","temp":"86.5","hum":"0.39","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 20:40","temp":"86.9","hum":"0.37","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 20:40","temp":"87.1","hum":"0.37","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 20:40","temp":"88.0","hum":"0.35","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 20:40","temp":"79.9","hum":"0.78","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 20:40","temp":"85.8","hum":"0.39","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 20:50","temp":"86.5","hum":"0.37","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 20:50","temp":"86.7","hum":"0.37","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 20:50","temp":"87.6","hum":"0.35","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 20:50","temp":"81.8","hum":"0.73","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 20:50","temp":"85.4","hum":"0.4","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 21:00","temp":"86.0","hum":"0.38","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 21:00","temp":"86.2","hum":"0.38","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 21:00","temp":"87.1","hum":"0.36","forecast":"Foggy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 21:00","temp":"81.5","hum":"0.74","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 21:00","temp":"84.9","hum":"0.41","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 21:10","temp":"85.5","hum":"0.39","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 21:10","temp":"85.7","hum":"0.39","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 21:10","temp":"86.6","hum":"0.37","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 21:10","temp":"80.9","hum":"0.76","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 21:10","temp":"84.3","hum":"0.42","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 21:20","temp":"84.9","hum":"0.4","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 21:20","temp":"85.2","hum":"0.4","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 21:20","temp":"86.1","hum":"0.37","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 21:20","temp":"80.6","hum":"0.76","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 21:20","temp":"83.7","hum":"0.43","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 21:30","temp":"84.4","hum":"0.41","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 21:30","temp":"84.7","hum":"0.41","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 21:30","temp":"85.6","hum":"0.38","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 21:30","temp":"80.3","hum":"0.77","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 21:30","temp":"83.2","hum":"0.44","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 21:40","temp":"83.8","hum":"0.42","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 21:40","temp":"84.2","hum":"0.42","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 21:40","temp":"84.1","hum":"0.42","forecast":"Foggy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 21:40","temp":"80.0","hum":"0.78","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 21:40","temp":"82.6","hum":"0.45","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 21:50","temp":"82.2","hum":"0.46","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 21:50","temp":"82.8","hum":"0.45","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 21:50","temp":"83.7","hum":"0.42","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 21:50","temp":"80.2","hum":"0.76","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 21:50","temp":"80.8","hum":"0.5","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 22:00","temp":"81.6","hum":"0.47","forecast":"Foggy"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 22:00","temp":"82.3","hum":"0.46","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 22:00","temp":"83.2","hum":"0.43","forecast":"Foggy"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 22:00","temp":"79.8","hum":"0.77","forecast":"Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 22:00","temp":"80.2","hum":"0.51","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 22:10","temp":"81.2","hum":"0.48","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 22:10","temp":"81.9","hum":"0.47","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 22:10","temp":"82.8","hum":"0.44","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 22:10","temp":"79.6","hum":"0.77","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 22:10","temp":"79.8","hum":"0.52","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 22:20","temp":"80.7","hum":"0.49","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 22:20","temp":"81.5","hum":"0.48","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 22:20","temp":"82.3","hum":"0.44","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 22:20","temp":"79.3","hum":"0.78","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 22:20","temp":"79.3","hum":"0.53","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 22:30","temp":"80.2","hum":"0.5","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 22:30","temp":"81.0","hum":"0.48","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 22:30","temp":"81.9","hum":"0.45","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 22:30","temp":"79.1","hum":"0.79","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 22:30","temp":"78.8","hum":"0.54","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 22:40","temp":"79.8","hum":"0.51","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 22:40","temp":"80.6","hum":"0.49","forecast":"Foggy"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 22:40","temp":"81.5","hum":"0.46","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 22:40","temp":"79.4","hum":"0.79","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 22:40","temp":"78.4","hum":"0.56","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 22:50","temp":"79.4","hum":"0.53","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 22:50","temp":"80.3","hum":"0.51","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 22:50","temp":"81.1","hum":"0.47","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 22:50","temp":"79.2","hum":"0.79","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 22:50","temp":"78.0","hum":"0.57","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 23:00","temp":"78.9","hum":"0.54","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 23:00","temp":"79.9","hum":"0.52","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 23:00","temp":"80.6","hum":"0.47","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 23:00","temp":"78.9","hum":"0.79","forecast":"Humid and Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 23:00","temp":"77.6","hum":"0.58","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 23:10","temp":"78.6","hum":"0.55","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 23:10","temp":"79.6","hum":"0.52","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 23:10","temp":"80.3","hum":"0.48","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 23:10","temp":"78.7","hum":"0.8","forecast":"Drizzle"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 23:10","temp":"77.3","hum":"0.58","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 23:20","temp":"78.3","hum":"0.55","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 23:20","temp":"79.3","hum":"0.53","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 23:20","temp":"80.1","hum":"0.48","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 23:20","temp":"78.7","hum":"0.8","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 23:20","temp":"76.9","hum":"0.59","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 23:30","temp":"78.0","hum":"0.56","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 23:30","temp":"78.9","hum":"0.53","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 23:30","temp":"79.8","hum":"0.49","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 23:30","temp":"78.4","hum":"0.8","forecast":"Drizzle"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 23:30","temp":"76.6","hum":"0.6","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 23:40","temp":"77.7","hum":"0.56","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 23:40","temp":"78.6","hum":"0.54","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 23:40","temp":"79.4","hum":"0.49","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 23:40","temp":"78.2","hum":"0.81","forecast":"Partly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 23:40","temp":"76.3","hum":"0.6","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-28 23:50","temp":"77.9","hum":"0.58","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-28 23:50","temp":"78.7","hum":"0.56","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-28 23:50","temp":"79.9","hum":"0.51","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-28 23:50","temp":"78.4","hum":"0.82","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-28 23:50","temp":"76.5","hum":"0.62","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 00:00","temp":"77.6","hum":"0.59","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 00:00","temp":"78.3","hum":"0.57","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 00:00","temp":"79.6","hum":"0.51","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 00:00","temp":"78.2","hum":"0.82","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 00:00","temp":"76.2","hum":"0.63","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 00:10","temp":"77.3","hum":"0.6","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 00:10","temp":"78.1","hum":"0.58","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 00:10","temp":"79.3","hum":"0.52","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 00:10","temp":"78.0","hum":"0.83","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 00:10","temp":"76.0","hum":"0.64","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 00:20","temp":"77.1","hum":"0.6","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 00:20","temp":"77.8","hum":"0.58","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 00:20","temp":"79.0","hum":"0.53","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 00:20","temp":"77.8","hum":"0.83","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 00:20","temp":"75.7","hum":"0.64","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 00:30","temp":"76.8","hum":"0.61","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 00:30","temp":"77.5","hum":"0.59","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 00:30","temp":"78.7","hum":"0.53","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 00:30","temp":"77.6","hum":"0.84","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 00:30","temp":"75.5","hum":"0.65","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 00:40","temp":"76.6","hum":"0.61","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 00:40","temp":"77.2","hum":"0.6","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 00:40","temp":"78.4","hum":"0.54","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 00:40","temp":"77.4","hum":"0.84","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 00:40","temp":"75.3","hum":"0.65","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 00:50","temp":"76.5","hum":"0.63","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 00:50","temp":"76.9","hum":"0.61","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 00:50","temp":"77.8","hum":"0.56","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 00:50","temp":"77.4","hum":"0.84","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 00:50","temp":"75.1","hum":"0.67","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 01:00","temp":"76.3","hum":"0.63","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 01:00","temp":"76.6","hum":"0.62","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 01:00","temp":"77.6","hum":"0.57","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 01:00","temp":"77.2","hum":"0.85","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 01:00","temp":"74.9","hum":"0.67","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 01:10","temp":"76.0","hum":"0.64","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 01:10","temp":"76.4","hum":"0.63","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 01:10","temp":"77.4","hum":"0.58","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 01:10","temp":"77.1","hum":"0.85","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 01:10","temp":"74.7","hum":"0.68","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 01:20","temp":"75.8","hum":"0.64","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 01:20","temp":"76.1","hum":"0.63","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 01:20","temp":"77.1","hum":"0.58","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 01:20","temp":"77","hum":"0.86","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 01:20","temp":"74.5","hum":"0.68","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 01:30","temp":"75.6","hum":"0.65","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 01:30","temp":"75.9","hum":"0.64","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 01:30","temp":"76.9","hum":"0.59","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 01:30","temp":"76.8","hum":"0.86","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 01:30","temp":"74.3","hum":"0.69","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 01:40","temp":"75.3","hum":"0.66","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 01:40","temp":"75.5","hum":"0.65","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 01:40","temp":"76.5","hum":"0.6","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 01:40","temp":"76.3","hum":"0.88","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 01:40","temp":"73.9","hum":"0.7","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 01:50","temp":"74.3","hum":"0.69","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 01:50","temp":"74.2","hum":"0.69","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 01:50","temp":"74.8","hum":"0.64","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 01:50","temp":"77.0","hum":"0.86","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 01:50","temp":"73.2","hum":"0.72","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 02:00","temp":"74.0","hum":"0.69","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 02:00","temp":"73.9","hum":"0.69","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 02:00","temp":"74.6","hum":"0.65","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 02:00","temp":"76.9","hum":"0.87","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 02:00","temp":"72.9","hum":"0.73","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 02:10","temp":"73.9","hum":"0.69","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 02:10","temp":"73.7","hum":"0.69","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 02:10","temp":"74.5","hum":"0.65","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 02:10","temp":"76.7","hum":"0.87","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 02:10","temp":"72.8","hum":"0.73","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 02:20","temp":"73.7","hum":"0.7","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 02:20","temp":"73.5","hum":"0.7","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 02:20","temp":"74.3","hum":"0.66","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 02:20","temp":"76.6","hum":"0.87","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 02:20","temp":"72.7","hum":"0.73","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 02:30","temp":"73.5","hum":"0.7","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 02:30","temp":"73.3","hum":"0.71","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 02:30","temp":"74.0","hum":"0.66","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 02:30","temp":"76.5","hum":"0.88","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 02:30","temp":"72.5","hum":"0.73","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 02:40","temp":"73.2","hum":"0.71","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 02:40","temp":"73.2","hum":"0.7","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 02:40","temp":"73.7","hum":"0.67","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 02:40","temp":"76.2","hum":"0.89","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 02:40","temp":"72.1","hum":"0.74","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 02:50","temp":"72.4","hum":"0.73","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 02:50","temp":"72.6","hum":"0.73","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 02:50","temp":"72.6","hum":"0.7","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 02:50","temp":"76.9","hum":"0.87","forecast":"Humid and Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 02:50","temp":"71.3","hum":"0.77","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 03:00","temp":"72.2","hum":"0.74","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 03:00","temp":"72.3","hum":"0.74","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 03:00","temp":"72.4","hum":"0.71","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 03:00","temp":"76.8","hum":"0.87","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 03:00","temp":"71.1","hum":"0.77","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 03:10","temp":"72.0","hum":"0.75","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 03:10","temp":"72.2","hum":"0.74","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 03:10","temp":"72.2","hum":"0.72","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 03:10","temp":"76.7","hum":"0.88","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 03:10","temp":"70.9","hum":"0.78","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 03:20","temp":"71.7","hum":"0.75","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 03:20","temp":"72.0","hum":"0.75","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 03:20","temp":"72.0","hum":"0.72","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 03:20","temp":"76.6","hum":"0.88","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 03:20","temp":"70.6","hum":"0.79","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 03:30","temp":"71.4","hum":"0.76","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 03:30","temp":"71.7","hum":"0.75","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 03:30","temp":"71.7","hum":"0.73","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 03:30","temp":"76.5","hum":"0.89","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 03:30","temp":"70.4","hum":"0.79","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 03:40","temp":"71.2","hum":"0.77","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 03:40","temp":"71.5","hum":"0.76","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 03:40","temp":"71.4","hum":"0.74","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 03:40","temp":"77.1","hum":"0.87","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 03:40","temp":"70.2","hum":"0.79","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 03:50","temp":"70.3","hum":"0.79","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 03:50","temp":"70.5","hum":"0.79","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 03:50","temp":"70.9","hum":"0.76","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 03:50","temp":"77.0","hum":"0.88","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 03:50","temp":"69.7","hum":"0.81","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 04:00","temp":"70.0","hum":"0.8","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 04:00","temp":"70.2","hum":"0.79","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 04:00","temp":"70.6","hum":"0.76","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 04:00","temp":"76.9","hum":"0.88","forecast":"Drizzle"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 04:00","temp":"69.4","hum":"0.82","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 04:10","temp":"69.9","hum":"0.81","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 04:10","temp":"70.2","hum":"0.8","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 04:10","temp":"70.5","hum":"0.77","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 04:10","temp":"76.9","hum":"0.88","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 04:10","temp":"69.3","hum":"0.82","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 04:20","temp":"69.7","hum":"0.81","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 04:20","temp":"70.1","hum":"0.8","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 04:20","temp":"70.4","hum":"0.77","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 04:20","temp":"76.8","hum":"0.89","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 04:20","temp":"69.2","hum":"0.83","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 04:30","temp":"69.6","hum":"0.81","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 04:30","temp":"70.0","hum":"0.8","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 04:30","temp":"70.3","hum":"0.77","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 04:30","temp":"76.8","hum":"0.89","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 04:30","temp":"69.0","hum":"0.83","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 04:40","temp":"69.4","hum":"0.82","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 04:40","temp":"69.9","hum":"0.8","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 04:40","temp":"70.2","hum":"0.78","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 04:40","temp":"77.1","hum":"0.88","forecast":"Humid and Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 04:40","temp":"68.5","hum":"0.85","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 04:50","temp":"69.1","hum":"0.83","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 04:50","temp":"70.0","hum":"0.8","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 04:50","temp":"70.4","hum":"0.78","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 04:50","temp":"77.1","hum":"0.88","forecast":"Humid and Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 04:50","temp":"68.4","hum":"0.85","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 05:00","temp":"69.0","hum":"0.84","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 05:00","temp":"69.9","hum":"0.81","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 05:00","temp":"70.3","hum":"0.78","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 05:00","temp":"77.0","hum":"0.88","forecast":"Drizzle"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 05:00","temp":"68.3","hum":"0.86","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 05:10","temp":"68.9","hum":"0.84","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 05:10","temp":"69.8","hum":"0.81","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 05:10","temp":"70.3","hum":"0.78","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 05:10","temp":"76.9","hum":"0.89","forecast":"Humid and Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 05:10","temp":"68.3","hum":"0.86","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 05:20","temp":"68.6","hum":"0.85","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 05:20","temp":"69.9","hum":"0.81","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 05:20","temp":"70.4","hum":"0.78","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 05:20","temp":"76.6","hum":"0.89","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 05:20","temp":"68.3","hum":"0.86","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 05:30","temp":"68.5","hum":"0.85","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 05:30","temp":"69.9","hum":"0.81","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 05:30","temp":"70.4","hum":"0.78","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 05:30","temp":"76.5","hum":"0.9","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 05:30","temp":"68.2","hum":"0.86","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 05:40","temp":"68.6","hum":"0.85","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 05:40","temp":"69.8","hum":"0.81","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 05:40","temp":"70.4","hum":"0.78","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 05:40","temp":"76.6","hum":"0.91","forecast":"Humid and Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 05:40","temp":"68.2","hum":"0.86","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 05:50","temp":"69.2","hum":"0.84","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 05:50","temp":"70.4","hum":"0.8","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 05:50","temp":"71.2","hum":"0.77","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 05:50","temp":"77.6","hum":"0.87","forecast":"Humid and Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 05:50","temp":"68.7","hum":"0.85","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 06:00","temp":"69.1","hum":"0.84","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 06:00","temp":"70.3","hum":"0.8","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 06:00","temp":"71.2","hum":"0.77","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 06:00","temp":"77.5","hum":"0.87","forecast":"Humid and Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 06:00","temp":"68.6","hum":"0.85","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 06:10","temp":"69.2","hum":"0.84","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 06:10","temp":"70.4","hum":"0.8","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 06:10","temp":"71.4","hum":"0.77","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 06:10","temp":"77.4","hum":"0.87","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 06:10","temp":"68.7","hum":"0.85","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 06:20","temp":"69.3","hum":"0.83","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 06:20","temp":"70.5","hum":"0.79","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 06:20","temp":"71.5","hum":"0.76","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 06:20","temp":"77.3","hum":"0.88","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 06:20","temp":"68.8","hum":"0.84","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 06:30","temp":"69.4","hum":"0.83","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 06:30","temp":"70.6","hum":"0.79","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 06:30","temp":"71.6","hum":"0.76","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 06:30","temp":"77.2","hum":"0.88","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 06:30","temp":"68.9","hum":"0.84","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 06:40","temp":"69.0","hum":"0.84","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 06:40","temp":"70.1","hum":"0.8","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 06:40","temp":"71.5","hum":"0.77","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 06:40","temp":"76.7","hum":"0.9","forecast":"Humid and Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 06:40","temp":"68.6","hum":"0.85","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 06:50","temp":"67.9","hum":"0.87","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 06:50","temp":"69.3","hum":"0.82","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 06:50","temp":"70.3","hum":"0.79","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 06:50","temp":"77.6","hum":"0.87","forecast":"Humid and Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 06:50","temp":"67.9","hum":"0.86","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 07:00","temp":"68.0","hum":"0.87","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 07:00","temp":"69.4","hum":"0.82","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 07:00","temp":"70.4","hum":"0.79","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 07:00","temp":"77.5","hum":"0.87","forecast":"Humid and Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 07:00","temp":"68.0","hum":"0.86","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 07:10","temp":"68.6","hum":"0.85","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 07:10","temp":"70.0","hum":"0.8","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 07:10","temp":"71.0","hum":"0.77","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 07:10","temp":"77.6","hum":"0.87","forecast":"Humid and Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 07:10","temp":"68.7","hum":"0.84","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 07:20","temp":"69.3","hum":"0.83","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 07:20","temp":"70.5","hum":"0.78","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 07:20","temp":"71.5","hum":"0.76","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 07:20","temp":"77.6","hum":"0.87","forecast":"Humid and Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 07:20","temp":"69.3","hum":"0.82","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 07:30","temp":"69.9","hum":"0.81","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 07:30","temp":"71.1","hum":"0.77","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 07:30","temp":"72.1","hum":"0.75","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 07:30","temp":"77.6","hum":"0.86","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 07:30","temp":"69.9","hum":"0.8","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 07:40","temp":"70.5","hum":"0.79","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 07:40","temp":"71.7","hum":"0.76","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 07:40","temp":"72.3","hum":"0.74","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 07:40","temp":"77.7","hum":"0.88","forecast":"Humid and Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 07:40","temp":"70.4","hum":"0.79","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 07:50","temp":"71.5","hum":"0.77","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 07:50","temp":"72.3","hum":"0.75","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 07:50","temp":"73.4","hum":"0.72","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 07:50","temp":"77.9","hum":"0.87","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 07:50","temp":"71.0","hum":"0.78","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 08:00","temp":"72.3","hum":"0.75","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 08:00","temp":"73.0","hum":"0.73","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 08:00","temp":"74.3","hum":"0.71","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 08:00","temp":"77.9","hum":"0.87","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 08:00","temp":"71.9","hum":"0.76","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 08:10","temp":"73.2","hum":"0.73","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 08:10","temp":"73.8","hum":"0.71","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 08:10","temp":"75.1","hum":"0.69","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 08:10","temp":"78.0","hum":"0.87","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 08:10","temp":"72.7","hum":"0.74","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 08:20","temp":"74.0","hum":"0.71","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 08:20","temp":"74.6","hum":"0.69","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 08:20","temp":"75.9","hum":"0.67","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 08:20","temp":"78.1","hum":"0.87","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 08:20","temp":"73.5","hum":"0.72","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 08:30","temp":"74.9","hum":"0.69","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 08:30","temp":"75.4","hum":"0.67","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 08:30","temp":"76.7","hum":"0.65","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 08:30","temp":"78.1","hum":"0.87","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 08:30","temp":"74.3","hum":"0.7","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 08:40","temp":"75.1","hum":"0.69","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 08:40","temp":"75.6","hum":"0.68","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 08:40","temp":"76.8","hum":"0.65","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 08:40","temp":"77.7","hum":"0.89","forecast":"Humid and Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 08:40","temp":"74.4","hum":"0.7","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 08:50","temp":"77.6","hum":"0.65","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 08:50","temp":"78.2","hum":"0.63","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 08:50","temp":"79.7","hum":"0.61","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 08:50","temp":"78.2","hum":"0.86","forecast":"Humid and Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 08:50","temp":"75.9","hum":"0.68","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 09:00","temp":"79.0","hum":"0.61","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 09:00","temp":"79.6","hum":"0.6","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 09:00","temp":"81.2","hum":"0.58","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 09:00","temp":"78.1","hum":"0.86","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 09:00","temp":"77.3","hum":"0.65","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 09:10","temp":"79.8","hum":"0.6","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 09:10","temp":"80.3","hum":"0.58","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 09:10","temp":"81.9","hum":"0.56","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 09:10","temp":"78.3","hum":"0.86","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 09:10","temp":"78.0","hum":"0.63","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 09:20","temp":"80.5","hum":"0.58","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 09:20","temp":"81.1","hum":"0.57","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 09:20","temp":"82.6","hum":"0.55","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 09:20","temp":"78.5","hum":"0.85","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 09:20","temp":"78.8","hum":"0.61","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 09:30","temp":"81.3","hum":"0.56","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 09:30","temp":"81.8","hum":"0.55","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 09:30","temp":"83.3","hum":"0.53","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 09:30","temp":"78.7","hum":"0.85","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 09:30","temp":"79.6","hum":"0.6","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 09:40","temp":"82.0","hum":"0.55","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 09:40","temp":"82.6","hum":"0.54","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 09:40","temp":"84.1","hum":"0.52","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 09:40","temp":"78.9","hum":"0.85","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 09:40","temp":"80.3","hum":"0.58","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 09:50","temp":"82.8","hum":"0.54","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 09:50","temp":"83.7","hum":"0.53","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 09:50","temp":"84.6","hum":"0.52","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 09:50","temp":"79.9","hum":"0.81","forecast":"Humid and Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 09:50","temp":"81.3","hum":"0.57","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 10:00","temp":"83.6","hum":"0.53","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 10:00","temp":"84.5","hum":"0.51","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 10:00","temp":"85.4","hum":"0.5","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 10:00","temp":"80.1","hum":"0.81","forecast":"Humid and Overcast"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 10:00","temp":"82.0","hum":"0.55","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 10:10","temp":"84.1","hum":"0.51","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 10:10","temp":"85.0","hum":"0.5","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 10:10","temp":"85.9","hum":"0.49","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 10:10","temp":"80.4","hum":"0.8","forecast":"Drizzle"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 10:10","temp":"82.6","hum":"0.54","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 10:20","temp":"84.6","hum":"0.5","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 10:20","temp":"85.6","hum":"0.49","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 10:20","temp":"86.5","hum":"0.48","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 10:20","temp":"80.6","hum":"0.79","forecast":"Rain"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 10:20","temp":"83.2","hum":"0.52","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 10:30","temp":"85.2","hum":"0.48","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 10:30","temp":"86.1","hum":"0.47","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 10:30","temp":"87.0","hum":"0.47","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 10:30","temp":"80.8","hum":"0.79","forecast":"Drizzle"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 10:30","temp":"83.8","hum":"0.51","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 10:40","temp":"86.6","hum":"0.45","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 10:40","temp":"87.5","hum":"0.45","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 10:40","temp":"87.6","hum":"0.47","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 10:40","temp":"79.4","hum":"0.84","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 10:40","temp":"85.2","hum":"0.47","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 10:50","temp":"86.2","hum":"0.47","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 10:50","temp":"86.8","hum":"0.47","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 10:50","temp":"88.2","hum":"0.45","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 10:50","temp":"80.8","hum":"0.8","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 10:50","temp":"84.8","hum":"0.49","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 11:00","temp":"86.8","hum":"0.45","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 11:00","temp":"87.4","hum":"0.45","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 11:00","temp":"88.7","hum":"0.44","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 11:00","temp":"81.0","hum":"0.79","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 11:00","temp":"85.4","hum":"0.47","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 11:20","temp":"87.4","hum":"0.43","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 11:20","temp":"87.9","hum":"0.43","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 11:20","temp":"89.4","hum":"0.42","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 11:20","temp":"81.3","hum":"0.78","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 11:20","temp":"86.1","hum":"0.45","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 11:30","temp":"87.8","hum":"0.42","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 11:30","temp":"88.3","hum":"0.43","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 11:30","temp":"89.8","hum":"0.41","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 11:30","temp":"81.6","hum":"0.78","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 11:30","temp":"86.5","hum":"0.44","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 11:40","temp":"89.1","hum":"0.4","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 11:40","temp":"88.6","hum":"0.38","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 11:40","temp":"90.9","hum":"0.39","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 11:40","temp":"81.4","hum":"0.79","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 11:40","temp":"87.2","hum":"0.4","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 11:50","temp":"88.8","hum":"0.37","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 11:50","temp":"89.0","hum":"0.37","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 11:50","temp":"90.4","hum":"0.36","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 11:50","temp":"83.1","hum":"0.74","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 11:50","temp":"87.7","hum":"0.39","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 12:00","temp":"89.3","hum":"0.36","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 12:00","temp":"89.3","hum":"0.36","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 12:00","temp":"90.8","hum":"0.35","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 12:00","temp":"83.5","hum":"0.73","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 12:00","temp":"88.1","hum":"0.38","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 12:10","temp":"89.5","hum":"0.36","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 12:10","temp":"89.5","hum":"0.36","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 12:10","temp":"91.0","hum":"0.35","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 12:10","temp":"83.8","hum":"0.72","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 12:10","temp":"88.3","hum":"0.37","forecast":"Clear"}
+{"loc":"123 Your Street Atlanta Georgia","sysdate":"2019-05-29 12:20","temp":"89.7","hum":"0.35","forecast":"Clear"}
+{"loc":"Atlanta Georgia","sysdate":"2019-05-29 12:20","temp":"89.6","hum":"0.36","forecast":"Clear"}
+{"loc":"Stone Mountain Park","sysdate":"2019-05-29 12:20","temp":"91.2","hum":"0.34","forecast":"Clear"}
+{"loc":"Coca-Cola Olympic Park","sysdate":"2019-05-29 12:20","temp":"84.1","hum":"0.71","forecast":"Humid and Mostly Cloudy"}
+{"loc":"Big Chicken Marietta Georgia","sysdate":"2019-05-29 12:20","temp":"88.5","hum":"0.37","forecast":"Clear"}

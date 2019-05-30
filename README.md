@@ -1,6 +1,8 @@
 # Heatmap
 Desc: Python solution to process IOT sensors and weather data
 
+Usage: Unzip mqtt.zip to same directory as class_presentation.ipyb. You need 2 files to run the notebook, weather_collect.txt and mqtt.txt. Both of these files should be in the same directory as the jupyter notebook class_presentation.ipyb. From there, the notebook does all the work.
+
 Abstract:
 Concerned with utility costs during summer peak months, ideas on how to reduce spending came up. Before making any big ticket commitments, we started looking at ways to improve utility efficiencies. We lacked current information about the "domestic thermal qualities" or HVAC and insulation efficiencies, so we set out to study the impact of the environment on our home's a/c usage as well as assess the a/c cooling abilities. 
 

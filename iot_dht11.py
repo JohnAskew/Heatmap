@@ -6,7 +6,7 @@
 #
 # prerequisites:
 # 1. Install needed python modules - see the import statements below.
-# 2. This program writes output as JSONm to a linux file in directory my_dir. 
+# 2. This program writes output as JSON to a linux file in directory my_dir. 
 #         If you wish to write to a differ directory, update
 #         these fields with your information:
 #             a. my_dir

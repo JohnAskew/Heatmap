@@ -1,9 +1,7 @@
 #!/usr/bin/python
 # ManhLab applications circa 2018, 2019
 # Beer-ware, so under GNU open licensing, 
-# free to modify and reuse at will. We are 
-# unable to charge for this script. 
-# The script is free and open. We do charge by the bug.... 
+# free to modify and reuse at will.
 #
 ### BEGIN SERIOUS CONTENT HERE ####
 

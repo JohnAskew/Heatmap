@@ -1,4 +1,4 @@
-# **Heatmap**
+# **Heatmap** (aka class_presentation)
 **Desc**: Python solution to process IOT sensors and weather data
 
 **Usage**: Unzip mqtt.zip to same directory as class_presentation.ipyb. You need 2 files to run the notebook, weather_collect.txt and mqtt.txt. Both of these files should be in the same directory as the jupyter notebook class_presentation.ipyb. From there, the notebook does all the work.

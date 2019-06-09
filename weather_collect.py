@@ -6,7 +6,7 @@ import os
 home_dir = '/home/jaskew/script/python'
 
 if os.path.isdir(home_dir):
-    os.chdir(homedir)
+    os.chdir(home_dir)
 else:
     home_dir = './'
 

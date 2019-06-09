@@ -34,7 +34,6 @@ else:
 with open(".mqtt_pw", 'r') as file:
     my_key = file.read()
     my_key = my_key[:-1]
-    print(my_key)
 file.close()
 #--------------------------------------#
 # MQTT Info
